@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mic">Mic</string>
+    <string name="camera">Camera</string>
+    <string name="lock">Lock</string>
+    <string name="todo">TODO</string>
+    <string name="go">Go</string>
+    <string name="enter_target_ip">Enter Target IP ....</string>
+    <string name="_00_00_00_00">00.00.00.00</string>
+</resources>
